@@ -1,4 +1,3 @@
-# Cquiz001
 #include <stdio.h>
 #include <cs50.h>
 
